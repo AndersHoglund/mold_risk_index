@@ -13,7 +13,7 @@ For spaces that are heated and where the risk of mold is close to cold surfaces 
 The formulas for the "Mold Risk Index” is inspired by a forum thread in a Swedish house building forum at [byggahus.se](https://www.byggahus.se/forum/threads/formel-foer-riskkurva.311612). Which in turn are originating (among others) from a publication by Hannu Viitanen named ["Factors affecting mould growth on kiln dried wood"](https://cris.vtt.fi/en/organisations/vtt-technical-research-centre-of-finland/publications/). *Search the net and you will find the publication*
 
 The risk of mold according to these formulas looks like this:
-![Graph](/plot.png)
+![Graph](/mold_risk_index_plot.png)
 
 ## Installation
 
